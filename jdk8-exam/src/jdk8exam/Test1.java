@@ -19,9 +19,9 @@ import java.util.function.Supplier;
 public class Test1 {
 
 	public static void main(String[] args) throws Exception {
-		//		MyIf mif = new MyIfImpl();
-		//		mif.sayHello();
-		//		mif.sayDefaultHello();
+//				MyIf mif = new MyIfImpl();
+//				mif.sayHello();
+//				mif.sayDefaultHello();
 
 		//		Runnable r;
 
